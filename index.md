@@ -12,7 +12,7 @@ It's highly encourage to try them all and find one or two that suits your needs.
 
 ## Applications
 
-### Random Lists - Ultimate Randomizer(https://play.google.com/store/apps/details?id=peakvalleytech.randi)
+### [Random Lists - Ultimate Randomizer\(https://play.google.com/store/apps/details?id=peakvalleytech.randi)
 Easily manage unlimted choices. Get it out of your mind and into a dedicated tool. 
 Add any number of sub lists. Fine grain selection of list of sub lists so you have
 full control of the level of serendipity. Generate a random item, put on your curiosity hat,
@@ -23,7 +23,7 @@ just too many. For example, a bookshelf full of books, a resturant menu, or a st
 With Image Picker, all you need to pick a random book from a bookshelf is just a few snaps of the camera and
 a few taps. No typing. Quick and easy. Once you use this randomizer, picking up a random book from a bookshelf will
 be a piece of cake.
-### Remind - Random Notifications(https://play.google.com/store/apps/details?id=com.randomcorp.randomnotifications)
+### [Remind - Random Notifications](https://play.google.com/store/apps/details?id=com.randomcorp.randomnotifications)
 If you are like most people in this age of distraction, reminders usually go unnoticed. Sometimes, you just need to
 have a sticky note or accountable partner to yell at you every hour. With Remind - Random Notifications, you can 
 set reminders that you can help but noticed. Featuring randomized notifications, full screen reminders, repeated reminders, and
