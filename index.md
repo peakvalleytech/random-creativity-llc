@@ -12,7 +12,7 @@ It's highly encourage to try them all and find one or two that suits your needs.
 
 ## Applications
 
-### [Random Lists - Ultimate Randomizer\(https://play.google.com/store/apps/details?id=peakvalleytech.randi)
+### [Random Lists - Ultimate Randomizer](https://play.google.com/store/apps/details?id=peakvalleytech.randi)
 Easily manage unlimted choices. Get it out of your mind and into a dedicated tool. 
 Add any number of sub lists. Fine grain selection of list of sub lists so you have
 full control of the level of serendipity. Generate a random item, put on your curiosity hat,
