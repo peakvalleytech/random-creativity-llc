@@ -1,5 +1,3 @@
-# Random Creativity LLC
-
 ## Mission
 Our mission is to create innovative experiences that empower creativity and productivity.
 
@@ -17,6 +15,7 @@ Easily manage unlimted choices. Get it out of your mind and into a dedicated too
 Add any number of sub lists. Fine grain selection of list of sub lists so you have
 full control of the level of serendipity. Generate a random item, put on your curiosity hat,
 and discover new creative possiblities.
+![Random Lists - Random Picker](images/random-lists-screenshots.jpg)
 ### [Image Picker - Random Picker](https://play.google.com/store/apps/details?id=com.peakvalleytech.picit)
 One down side of most randomizers is that you have to mannually enter choices. Sometimes, there are
 just too many. For example, a bookshelf full of books, a resturant menu, or a stack of video games.
